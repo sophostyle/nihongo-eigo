@@ -1,0 +1,202 @@
+[
+  {
+    "english": "education",
+    "japanese": "教育",
+    "category": "school"
+  },
+  {
+    "english": "school",
+    "japanese": "学校",
+    "category": "school"
+  },
+  {
+    "english": "school building",
+    "japanese": "校舎",
+    "category": "school"
+  },
+  {
+    "english": "schoolyard",
+    "japanese": "校庭",
+    "category": "school"
+  },
+  {
+    "english": "university",
+    "japanese": "大学",
+    "category": "school"
+  },
+  {
+    "english": "college",
+    "japanese": "（単科）大学",
+    "category": "school"
+  },
+  {
+    "english": "high school",
+    "japanese": "高校",
+    "category": "school"
+  },
+  {
+    "english": "junior high school",
+    "japanese": "中学校",
+    "category": "school"
+  },
+  {
+    "english": "school festival",
+    "japanese": "文化祭",
+    "category": "school"
+  },
+  {
+    "english": "teacher",
+    "japanese": "先生、教師",
+    "category": "school"
+  },
+  {
+    "english": "student",
+    "japanese": "生徒、学生",
+    "category": "school"
+  },
+  {
+    "english": "subject",
+    "japanese": "教科、科目",
+    "category": "school"
+  },
+  {
+    "english": "English",
+    "japanese": "英語",
+    "category": "school"
+  },
+  {
+    "english": "science",
+    "japanese": "科学、理科",
+    "category": "school"
+  },
+  {
+    "english": "history",
+    "japanese": "歴史",
+    "category": "school"
+  },
+  {
+    "english": "math",
+    "japanese": "数学",
+    "category": "school"
+  },
+  {
+    "english": "art",
+    "japanese": "美術、芸術",
+    "category": "school"
+  },
+  {
+    "english": "test",
+    "japanese": "試験、テスト",
+    "category": "school"
+  },
+  {
+    "english": "examination",
+    "japanese": "試験",
+    "category": "school"
+  },
+  {
+    "english": "grade",
+    "japanese": "学年、点数",
+    "category": "school"
+  },
+  {
+    "english": "world",
+    "japanese": "世界",
+    "category": "geography"
+  },
+  {
+    "english": "country",
+    "japanese": "国",
+    "category": "geography"
+  },
+  {
+    "english": "nation",
+    "japanese": "国民、国家",
+    "category": "geography"
+  },
+  {
+    "english": "border",
+    "japanese": "国境",
+    "category": "geography"
+  },
+  {
+    "english": "horizon",
+    "japanese": "地平線、水平線",
+    "category": "geography"
+  },
+  {
+    "english": "Africa",
+    "japanese": "アフリカ",
+    "category": "country"
+  },
+  {
+    "english": "the United States",
+    "japanese": "アメリカ合衆国",
+    "category": "country"
+  },
+  {
+    "english": "Canada",
+    "japanese": "カナダ",
+    "category": "country"
+  },
+  {
+    "english": "Australia",
+    "japanese": "オーストラリア",
+    "category": "country"
+  },
+  {
+    "english": "New Zealand",
+    "japanese": "ニュージーランド",
+    "category": "country"
+  },
+  {
+    "english": "China",
+    "japanese": "中国",
+    "category": "country"
+  },
+  {
+    "english": "South Korea",
+    "japanese": "韓国",
+    "category": "country"
+  },
+  {
+    "english": "Turkey",
+    "japanese": "トルコ",
+    "category": "country"
+  },
+  {
+    "english": "Russia",
+    "japanese": "ロシア",
+    "category": "country"
+  },
+  {
+    "english": "France",
+    "japanese": "フランス",
+    "category": "country"
+  },
+  {
+    "english": "Italy",
+    "japanese": "イタリア",
+    "category": "country"
+  },
+  {
+    "english": "Brazil",
+    "japanese": "ブラジル",
+    "category": "country"
+  },
+  {
+    "english": "Germany",
+    "japanese": "ドイツ",
+    "category": "country"
+  },
+  {
+    "english": "Spain",
+    "japanese": "スペイン",
+    "category": "country"
+  },
+  {
+    "english": "Holland",
+    "japanese": "オランダ",
+    "category": "country"
+  }
+]

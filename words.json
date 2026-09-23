@@ -1,0 +1,202 @@
+[
+  {
+    "english": "language",
+    "japanese": "ことば、言語",
+    "category": "language"
+  },
+  {
+    "english": "people",
+    "japanese": "人々",
+    "category": "language"
+  },
+  {
+    "english": "Japanese",
+    "japanese": "日本語、日本人、日本の",
+    "category": "language"
+  },
+  {
+    "english": "Spanish",
+    "japanese": "スペイン語、スペイン人、スペインの",
+    "category": "language"
+  },
+  {
+    "english": "German",
+    "japanese": "ドイツ語、ドイツ人、ドイツの",
+    "category": "language"
+  },
+  {
+    "english": "Dutch",
+    "japanese": "オランダ語、オランダ人、オランダの",
+    "category": "language"
+  },
+  {
+    "english": "Chinese",
+    "japanese": "中国語、中国人、中国の",
+    "category": "language"
+  },
+  {
+    "english": "French",
+    "japanese": "フランス語、フランス人、フランスの",
+    "category": "language"
+  },
+  {
+    "english": "Italian",
+    "japanese": "イタリア語、イタリア人、イタリアの",
+    "category": "language"
+  },
+  {
+    "english": "American",
+    "japanese": "アメリカ人、アメリカの",
+    "category": "language"
+  },
+  {
+    "english": "sport",
+    "japanese": "スポーツ",
+    "category": "sport"
+  },
+  {
+    "english": "club",
+    "japanese": "クラブ、部活",
+    "category": "sport"
+  },
+  {
+    "english": "baseball",
+    "japanese": "野球",
+    "category": "sport"
+  },
+  {
+    "english": "soccer",
+    "japanese": "サッカー",
+    "category": "sport"
+  },
+  {
+    "english": "football",
+    "japanese": "サッカー、アメフト",
+    "category": "sport"
+  },
+  {
+    "english": "basketball",
+    "japanese": "バスケットボール",
+    "category": "sport"
+  },
+  {
+    "english": "volleyball",
+    "japanese": "バレーボール",
+    "category": "sport"
+  },
+  {
+    "english": "tennis",
+    "japanese": "テニス",
+    "category": "sport"
+  },
+  {
+    "english": "ice hockey",
+    "japanese": "アイスホッケー",
+    "category": "sport"
+  },
+  {
+    "english": "badminton",
+    "japanese": "バドミントン",
+    "category": "sport"
+  },
+  {
+    "english": "job",
+    "japanese": "(具体的な)仕事、職務",
+    "category": "job"
+  },
+  {
+    "english": "nurse",
+    "japanese": "看護師",
+    "category": "job"
+  },
+  {
+    "english": "police officer",
+    "japanese": "警官",
+    "category": "job"
+  },
+  {
+    "english": "journalist",
+    "japanese": "記者、ジャーナリスト",
+    "category": "job"
+  },
+  {
+    "english": "actor",
+    "japanese": "俳優、役者",
+    "category": "job"
+  },
+  {
+    "english": "painter",
+    "japanese": "画家",
+    "category": "job"
+  },
+  {
+    "english": "doctor",
+    "japanese": "医者",
+    "category": "job"
+  },
+  {
+    "english": "singer",
+    "japanese": "歌手",
+    "category": "job"
+  },
+  {
+    "english": "instructor",
+    "japanese": "指導者、教師",
+    "category": "job"
+  },
+  {
+    "english": "scientist",
+    "japanese": "科学者",
+    "category": "job"
+  },
+  {
+    "english": "animal",
+    "japanese": "動物",
+    "category": "animal"
+  },
+  {
+    "english": "bird",
+    "japanese": "鳥",
+    "category": "animal"
+  },
+  {
+    "english": "panda",
+    "japanese": "パンダ",
+    "category": "animal"
+  },
+  {
+    "english": "bear",
+    "japanese": "クマ",
+    "category": "animal"
+  },
+  {
+    "english": "elephant",
+    "japanese": "ゾウ",
+    "category": "animal"
+  },
+  {
+    "english": "monkey",
+    "japanese": "サル",
+    "category": "animal"
+  },
+  {
+    "english": "sheep",
+    "japanese": "羊",
+    "category": "animal"
+  },
+  {
+    "english": "goat",
+    "japanese": "ヤギ",
+    "category": "animal"
+  },
+  {
+    "english": "horse",
+    "japanese": "馬",
+    "category": "animal"
+  },
+  {
+    "english": "zoo",
+    "japanese": "動物園",
+    "category": "animal"
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "english": "food",
+    "japanese": "食べ物",
+    "category": "noun"
+  },
+  {
+    "english": "meal",
+    "japanese": "食事",
+    "category": "noun"
+  },
+  {
+    "english": "breakfast",
+    "japanese": "朝食",
+    "category": "noun"
+  },
+  {
+    "english": "lunch",
+    "japanese": "昼食",
+    "category": "noun"
+  },
+  {
+    "english": "dinner",
+    "japanese": "夕食",
+    "category": "noun"
+  },
+  {
+    "english": "restaurant",
+    "japanese": "レストラン",
+    "category": "noun"
+  },
+  {
+    "english": "steak",
+    "japanese": "ステーキ",
+    "category": "noun"
+  },
+  {
+    "english": "rice",
+    "japanese": "ご飯、米",
+    "category": "noun"
+  },
+  {
+    "english": "bread",
+    "japanese": "パン",
+    "category": "noun"
+  },
+  {
+    "english": "soup",
+    "japanese": "スープ",
+    "category": "noun"
+  },
+  {
+    "english": "pizza",
+    "japanese": "ピザ",
+    "category": "noun"
+  },
+  {
+    "english": "noodle",
+    "japanese": "めん",
+    "category": "noun"
+  },
+  {
+    "english": "hamburger",
+    "japanese": "ハンバーガー",
+    "category": "noun"
+  },
+  {
+    "english": "toast",
+    "japanese": "トースト",
+    "category": "noun"
+  },
+  {
+    "english": "sandwich",
+    "japanese": "サンドイッチ",
+    "category": "noun"
+  },
+  {
+    "english": "French fries",
+    "japanese": "フライドポテト",
+    "category": "noun"
+  },
+  {
+    "english": "tea",
+    "japanese": "紅茶",
+    "category": "noun"
+  },
+  {
+    "english": "coffee",
+    "japanese": "コーヒー",
+    "category": "noun"
+  },
+  {
+    "english": "iced coffee",
+    "japanese": "アイスコーヒー",
+    "category": "noun"
+  },
+  {
+    "english": "juice",
+    "japanese": "ジュース",
+    "category": "noun"
+  },
+  {
+    "english": "give",
+    "japanese": "(を)与える",
+    "category": "verb"
+  },
+  {
+    "english": "get",
+    "japanese": "(を)手に入れる",
+    "category": "verb"
+  },
+  {
+    "english": "say",
+    "japanese": "(と)言う",
+    "category": "verb"
+  },
+  {
+    "english": "take",
+    "japanese": "(を)取る",
+    "category": "verb"
+  },
+  {
+    "english": "clean",
+    "japanese": "(を)きれいにする、そうじする",
+    "category": "verb"
+  },
+  {
+    "english": "cook",
+    "japanese": "(を)料理する",
+    "category": "verb"
+  },
+  {
+    "english": "famous",
+    "japanese": "有名な",
+    "category": "adj"
+  },
+  {
+    "english": "foreign",
+    "japanese": "外国の",
+    "category": "adj"
+  },
+  {
+    "english": "long",
+    "japanese": "[時間・距離などが]長い",
+    "category": "adj"
+  },
+  {
+    "english": "short",
+    "japanese": "[時間・距離などが]短い",
+    "category": "adj"
+  },
+  {
+    "english": "hot",
+    "japanese": "暑い",
+    "category": "adj"
+  },
+  {
+    "english": "cold",
+    "japanese": "寒い",
+    "category": "adj"
+  },
+  {
+    "english": "only",
+    "japanese": "ただ~だけ、ほんの、~にすぎない",
+    "category": "adv_prep"
+  },
+  {
+    "english": "again",
+    "japanese": "再び、また、もう一度",
+    "category": "adv_prep"
+  },
+  {
+    "english": "before",
+    "japanese": "(~の)前に[で]",
+    "category": "adv_prep"
+  },
+  {
+    "english": "after",
+    "japanese": "(~の)後に[で]",
+    "category": "adv_prep"
+  },
+  {
+    "english": "I'm sorry.",
+    "japanese": "ごめんなさい。すみません。",
+    "category": "phrase"
+  },
+  {
+    "english": "That's all right.",
+    "japanese": "[謝罪・感謝などに対して]いいんですよ。",
+    "category": "phrase"
+  },
+  {
+    "english": "Here you are.",
+    "japanese": "[物を差し出して]はい、どうぞ。",
+    "category": "phrase"
+  },
+  {
+    "english": "Here's your change.",
+    "japanese": "おつりをどうぞ。",
+    "category": "phrase"
+  }
+]

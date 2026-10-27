@@ -1,0 +1,202 @@
+[
+  {
+    "english": "home",
+    "japanese": "家庭、家、故郷",
+    "category": "house"
+  },
+  {
+    "english": "house",
+    "japanese": "家",
+    "category": "house"
+  },
+  {
+    "english": "roof",
+    "japanese": "屋根",
+    "category": "house"
+  },
+  {
+    "english": "wall",
+    "japanese": "壁",
+    "category": "house"
+  },
+  {
+    "english": "door",
+    "japanese": "ドア、戸",
+    "category": "house"
+  },
+  {
+    "english": "room",
+    "japanese": "部屋",
+    "category": "house"
+  },
+  {
+    "english": "window",
+    "japanese": "窓",
+    "category": "house"
+  },
+  {
+    "english": "desk",
+    "japanese": "机",
+    "category": "house"
+  },
+  {
+    "english": "table",
+    "japanese": "テーブル",
+    "category": "house"
+  },
+  {
+    "english": "chair",
+    "japanese": "いす",
+    "category": "house"
+  },
+  {
+    "english": "clock",
+    "japanese": "時計",
+    "category": "house"
+  },
+  {
+    "english": "kitchen",
+    "japanese": "台所、調理場",
+    "category": "house"
+  },
+  {
+    "english": "garbage",
+    "japanese": "生ごみ",
+    "category": "kitchen"
+  },
+  {
+    "english": "dish",
+    "japanese": "皿",
+    "category": "kitchen"
+  },
+  {
+    "english": "bottle",
+    "japanese": "びん、ボトル",
+    "category": "kitchen"
+  },
+  {
+    "english": "wine",
+    "japanese": "ワイン",
+    "category": "kitchen"
+  },
+  {
+    "english": "vinegar",
+    "japanese": "酢",
+    "category": "kitchen"
+  },
+  {
+    "english": "oil",
+    "japanese": "油",
+    "category": "kitchen"
+  },
+  {
+    "english": "salt",
+    "japanese": "塩",
+    "category": "kitchen"
+  },
+  {
+    "english": "sugar",
+    "japanese": "砂糖",
+    "category": "kitchen"
+  },
+  {
+    "english": "swim",
+    "japanese": "泳ぐ",
+    "category": "misc"
+  },
+  {
+    "english": "touch",
+    "japanese": "(を)さわる、感動させる",
+    "category": "misc"
+  },
+  {
+    "english": "great",
+    "japanese": "すてきな、すばらしい",
+    "category": "misc"
+  },
+  {
+    "english": "please",
+    "japanese": "~してください、どうぞ、どうか",
+    "category": "adv"
+  },
+  {
+    "english": "also",
+    "japanese": "~もまた",
+    "category": "adv"
+  },
+  {
+    "english": "together",
+    "japanese": "一緒に",
+    "category": "adv"
+  },
+  {
+    "english": "here",
+    "japanese": "ここに[で、へ]",
+    "category": "adv"
+  },
+  {
+    "english": "there",
+    "japanese": "そこに[で、へ]",
+    "category": "adv"
+  },
+  {
+    "english": "then",
+    "japanese": "そのときに(は)",
+    "category": "adv"
+  },
+  {
+    "english": "near",
+    "japanese": "~の近くに",
+    "category": "misc"
+  },
+  {
+    "english": "hello",
+    "japanese": "(電話で)もしもし",
+    "category": "phrase"
+  },
+  {
+    "english": "goodbye",
+    "japanese": "さようなら",
+    "category": "phrase"
+  },
+  {
+    "english": "go to ~",
+    "japanese": "~に行く",
+    "category": "phrase"
+  },
+  {
+    "english": "look at ~",
+    "japanese": "~を見る",
+    "category": "phrase"
+  },
+  {
+    "english": "try to ~",
+    "japanese": "~しようとする",
+    "category": "phrase"
+  },
+  {
+    "english": "after school",
+    "japanese": "放課後に",
+    "category": "phrase"
+  },
+  {
+    "english": "That's right.",
+    "japanese": "そのとおり。",
+    "category": "phrase"
+  },
+  {
+    "english": "How's the weather?",
+    "japanese": "天気はどうですか。",
+    "category": "phrase"
+  },
+  {
+    "english": "How about you?",
+    "japanese": "あなたはどうですか。",
+    "category": "phrase"
+  },
+  {
+    "english": "See you.",
+    "japanese": "さようなら。またね。",
+    "category": "phrase"
+  }
+]

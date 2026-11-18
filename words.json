@@ -1,0 +1,202 @@
+[
+  {
+    "english": "baby",
+    "japanese": "赤ちゃん、赤ん坊",
+    "category": "people"
+  },
+  {
+    "english": "boy",
+    "japanese": "男の子",
+    "category": "people"
+  },
+  {
+    "english": "girl",
+    "japanese": "女の子",
+    "category": "people"
+  },
+  {
+    "english": "man",
+    "japanese": "男性、男の人",
+    "category": "people"
+  },
+  {
+    "english": "woman",
+    "japanese": "女性、女の人",
+    "category": "people"
+  },
+  {
+    "english": "person",
+    "japanese": "人",
+    "category": "people"
+  },
+  {
+    "english": "birthday",
+    "japanese": "誕生日",
+    "category": "party"
+  },
+  {
+    "english": "present",
+    "japanese": "贈り物、プレゼント",
+    "category": "party"
+  },
+  {
+    "english": "party",
+    "japanese": "パーティー",
+    "category": "party"
+  },
+  {
+    "english": "sweets",
+    "japanese": "お菓子",
+    "category": "party"
+  },
+  {
+    "english": "candy",
+    "japanese": "あめ、キャンディー",
+    "category": "party"
+  },
+  {
+    "english": "cake",
+    "japanese": "ケーキ",
+    "category": "party"
+  },
+  {
+    "english": "chocolate",
+    "japanese": "チョコレート",
+    "category": "party"
+  },
+  {
+    "english": "ice cream",
+    "japanese": "アイスクリーム",
+    "category": "party"
+  },
+  {
+    "english": "music",
+    "japanese": "音楽",
+    "category": "music"
+  },
+  {
+    "english": "concert",
+    "japanese": "コンサート",
+    "category": "music"
+  },
+  {
+    "english": "musician",
+    "japanese": "音楽家",
+    "category": "music"
+  },
+  {
+    "english": "song",
+    "japanese": "歌",
+    "category": "music"
+  },
+  {
+    "english": "voice",
+    "japanese": "声",
+    "category": "music"
+  },
+  {
+    "english": "violin",
+    "japanese": "バイオリン",
+    "category": "music"
+  },
+  {
+    "english": "guitar",
+    "japanese": "ギター",
+    "category": "music"
+  },
+  {
+    "english": "game",
+    "japanese": "試合、ゲーム",
+    "category": "team"
+  },
+  {
+    "english": "team",
+    "japanese": "チーム",
+    "category": "team"
+  },
+  {
+    "english": "member",
+    "japanese": "一員、メンバー",
+    "category": "team"
+  },
+  {
+    "english": "player",
+    "japanese": "選手、演奏者",
+    "category": "team"
+  },
+  {
+    "english": "play",
+    "japanese": "(スポーツ・演奏を)する",
+    "category": "verb"
+  },
+  {
+    "english": "love",
+    "japanese": "(を)愛する、(が)大好きである",
+    "category": "verb"
+  },
+  {
+    "english": "call",
+    "japanese": "(に)電話をする、(を)呼ぶ",
+    "category": "verb"
+  },
+  {
+    "english": "study",
+    "japanese": "(を)勉強する、研究する",
+    "category": "verb"
+  },
+  {
+    "english": "wash",
+    "japanese": "(を)洗う、押し流す",
+    "category": "verb"
+  },
+  {
+    "english": "big",
+    "japanese": "大きい",
+    "category": "adj"
+  },
+  {
+    "english": "small",
+    "japanese": "小さい",
+    "category": "adj"
+  },
+  {
+    "english": "new",
+    "japanese": "新しい",
+    "category": "adj"
+  },
+  {
+    "english": "old",
+    "japanese": "古い",
+    "category": "adj"
+  },
+  {
+    "english": "junior",
+    "japanese": "年下の、下級の",
+    "category": "adj"
+  },
+  {
+    "english": "senior",
+    "japanese": "年上の、上級の",
+    "category": "adj"
+  },
+  {
+    "english": "Happy Birthday!",
+    "japanese": "お誕生日おめでとう。",
+    "category": "phrase"
+  },
+  {
+    "english": "Happy New Year!",
+    "japanese": "新年おめでとうございます。",
+    "category": "phrase"
+  },
+  {
+    "english": "May I help you?",
+    "japanese": "いらっしゃいませ。",
+    "category": "phrase"
+  },
+  {
+    "english": "Here it is.",
+    "japanese": "はい、どうぞ。",
+    "category": "phrase"
+  }
+]
